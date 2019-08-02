@@ -1,3 +1,5 @@
+import { CLICK_UPDATE_VALUE } from '../actions/actionTypes';
+
 const initialState = {
   newValue: ''
 };
